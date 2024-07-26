@@ -11442,7 +11442,7 @@ transition: all 0.5s ease-in-out;
 
 /*----background half-right----*/
 .bg-half-right{
-    background-position: calc(50% + 1040px);
+    background-position: calc(50% + 600px);
 	background-size:cover;
 }
 
